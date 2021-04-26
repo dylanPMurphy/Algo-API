@@ -1,2 +1,4 @@
 AlgoAPI/AlgoAPI/settings.py
 venv/*
+*.pycache
+api/migrations
