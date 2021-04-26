@@ -3,5 +3,5 @@ from . import get_valid_IP_addresses
 import json
 
 def isValidIP(request):
-    return json.dumps(request)
+    return request
 
